@@ -1,6 +1,8 @@
 # Airbnb Hotel Booking Website
 
-This project is a hotel booking website inspired by Airbnb. It allows users to browse hotel listings, check availability, and make reservations.
+The **Airbnb Hotel Booking Website** is an online platform designed to simulate the features and functionalities of the popular Airbnb service. The project aims to offer users the ability to search, view, and book hotel rooms, providing a seamless booking experience with user-friendly features. The website is built with modern technologies like **Node.js**, **Express**, and **MongoDB** for the backend, and **EJS** for templating, making it both dynamic and interactive.
+
+The website includes both user and admin functionalities. Users can search for hotels, check availability, and book rooms, while administrators can manage hotel listings, update room availability, and handle bookings. The project leverages **Passport.js** for secure user authentication and **Cloudinary** for storing and displaying hotel images.
 
 ## Features
 
@@ -60,7 +62,3 @@ This project is licensed under the MIT License.
 4. Paste the above content into the editor.
 5. Name the file `README.md`.
 6. Commit the file by clicking **Commit new file**.
-
-This will add the `README.md` file directly to your GitHub repository.
-
-Let me know if you need any adjustments!
